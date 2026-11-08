@@ -107,7 +107,7 @@ All notable changes to this project are documented here. The format follows
 
 - Last release as Hydrate Buddy.
 
-[Unreleased]: https://github.com/MadhavanAR/Pingo/compare/v2.2.0...HEAD
-[2.2.0]: https://github.com/MadhavanAR/Pingo/compare/v2.1.0...v2.2.0
-[2.1.0]: https://github.com/MadhavanAR/Pingo/compare/v2.0.0...v2.1.0
-[2.0.0]: https://github.com/MadhavanAR/Pingo/compare/v1.0.8...v2.0.0
+[Unreleased]: https://github.com/askmadhavan/Pingo/compare/v2.2.0...HEAD
+[2.2.0]: https://github.com/askmadhavan/Pingo/compare/v2.1.0...v2.2.0
+[2.1.0]: https://github.com/askmadhavan/Pingo/compare/v2.0.0...v2.1.0
+[2.0.0]: https://github.com/askmadhavan/Pingo/compare/v1.0.8...v2.0.0
