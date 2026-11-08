@@ -10,7 +10,7 @@ best for the community. Harassment of any kind is not tolerated.
 ## Enforcement
 
 Report unacceptable behaviour privately to the maintainers through
-[GitHub Security Advisories](https://github.com/MadhavanAR/Pingo/security/advisories/new)
+[GitHub Security Advisories](https://github.com/askmadhavan/Pingo/security/advisories/new)
 or by contacting a maintainer directly. All reports are reviewed promptly and
 kept confidential. Maintainers may remove, edit or reject contributions, and may
 ban contributors temporarily or permanently, in line with the Covenant's

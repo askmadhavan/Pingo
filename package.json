@@ -38,11 +38,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MadhavanAR/Pingo.git"
+    "url": "https://github.com/askmadhavan/Pingo.git"
   },
   "homepage": "https://pingo-flax.vercel.app",
   "bugs": {
-    "url": "https://github.com/MadhavanAR/Pingo/issues"
+    "url": "https://github.com/askmadhavan/Pingo/issues"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.5",

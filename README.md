@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MadhavanAR/Pingo/actions/workflows/ci.yml"><img src="https://github.com/MadhavanAR/Pingo/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
-  <a href="https://github.com/MadhavanAR/Pingo/releases/latest"><img src="https://img.shields.io/github/v/release/MadhavanAR/Pingo?color=0a8a64" alt="Latest release" /></a>
+  <a href="https://github.com/askmadhavan/Pingo/actions/workflows/ci.yml"><img src="https://github.com/askmadhavan/Pingo/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+  <a href="https://github.com/askmadhavan/Pingo/releases/latest"><img src="https://img.shields.io/github/v/release/askmadhavan/Pingo?color=0a8a64" alt="Latest release" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-0a8a64.svg" alt="MIT license" /></a>
 </p>
 
@@ -49,7 +49,7 @@ Press **Done** and it cheers. Press **Snooze** and it comes back later.
 ## Install
 
 Download from **[pingo-flax.vercel.app](https://pingo-flax.vercel.app)** or the
-[latest release](https://github.com/MadhavanAR/Pingo/releases/latest).
+[latest release](https://github.com/askmadhavan/Pingo/releases/latest).
 
 |             | 1                             | 2                                                   |
 | ----------- | ----------------------------- | --------------------------------------------------- |
@@ -62,7 +62,7 @@ Linux: `.AppImage` or `sudo apt install ./Pingo-*.deb`.
 ## Develop
 
 ```bash
-git clone https://github.com/MadhavanAR/Pingo.git && cd Pingo
+git clone https://github.com/askmadhavan/Pingo.git && cd Pingo
 npm install && npm start
 ```
 
